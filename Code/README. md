@@ -6,4 +6,4 @@
 + irReadATTiny1.ino code is ran on an ATTINY85
 + irReadArduino.ino is ran on an Arduino Uno or like, to get the hex number from the ir remote control
 
-<div>![IR Receiver](Images/ir_rc_fritzing.png)</div)
+<div>![IR Receiver](Images/ir_rc_fritzing.png)</div>
