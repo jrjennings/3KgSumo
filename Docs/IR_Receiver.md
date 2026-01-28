@@ -1,4 +1,5 @@
 # IR Receiver
+## a testing setup
 ![IR_Receiver](/Images/ir_rc_fritzing.png)
 
 [Code for ATTINY85](/Code/irReadATTiny1.ino)<br/>
