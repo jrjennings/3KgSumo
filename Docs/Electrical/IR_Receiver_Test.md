@@ -1,4 +1,4 @@
-# IR Receiver
+# IR Receiver Testing
 ## a testing setup
 ![IR_Receiver](/Images/ir_rc_fritzing.png)
 
