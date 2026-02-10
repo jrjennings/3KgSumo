@@ -1,1 +1,1 @@
-![test](Images/Schematic_v30.pdf)
+![Schematic](Images/Schematic_v30.png)
