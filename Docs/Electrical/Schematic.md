@@ -1,1 +1,1 @@
-![Schematic](/Images/Schematic v34.pdf)
+![Schematic](/Images/Schematic_v34.pdf)
